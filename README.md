@@ -17,10 +17,10 @@
 
 ## Overview
 
-This project is a personal hard-surface modeling study focused on creating a
-sci-fi industrial robotic arm (manipulator).
+This project is a hard-surface robotic arm study made during the
+BlenderBros Hard Surface Modeling Jumpstart course.
 
-The goal is to practice:
+The project focuses on:
 - mechanical design logic
 - clean hard-surface topology
 - boolean-based workflows
@@ -69,7 +69,8 @@ Each commit represents a **logically finished step**
 ## Notes
 
 This repository contains **only original work**.  
-No third-party course materials, assets, or references are included.
+This repository contains only original modeling work created by the author.
+No course files, distributed assets, or third-party content are included.
 
 ---
 
@@ -77,10 +78,10 @@ No third-party course materials, assets, or references are included.
 
 ## Обзор
 
-Этот проект — личная практика hard-surface моделирования в Blender: создание
-научно-фантастической индустриальной робо-руки (манипулятора).
+Этот проект — hard-surface исследование роботизированного манипулятора,
+выполненное в рамках курса BlenderBros Hard Surface Modeling Jumpstart.
 
-Цели проекта:
+Проект сосредоточен на следующих аспектах:
 - продумать механику конструкции
 - отработать чистую hard-surface топологию
 - закрепить boolean-workflow
@@ -130,6 +131,7 @@ No third-party course materials, assets, or references are included.
 ## Примечание
 
 В репозитории находится **только оригинальная работа**.  
-Материалы курсов, ассеты и референсы третьих сторон не публикуются.
+В репозитории находится только оригинальная модельная работа автора.
+Файлы курсов, распространяемые ассеты и сторонний контент не включены.
 
 
