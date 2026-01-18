@@ -64,7 +64,7 @@ Each commit represents a **logically finished step**
 
 ## Status
 
-🚧 Work in progress
+✅ Completed
 
 ## Notes
 
@@ -125,7 +125,7 @@ No third-party course materials, assets, or references are included.
 
 ## Статус
 
-🚧 В процессе
+✅ Завершен
 
 ## Примечание
 
